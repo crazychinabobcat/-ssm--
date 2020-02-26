@@ -1,0 +1,8 @@
+com\lynx\ssm\domain\Permission.class
+com\lynx\ssm\domain\Role.class
+com\lynx\ssm\domain\Order.class
+com\lynx\ssm\domain\Traveller.class
+com\lynx\ssm\domain\UserInfo.class
+com\lynx\ssm\domain\Member.class
+com\lynx\ssm\domain\SysLog.class
+com\lynx\ssm\domain\Product.class

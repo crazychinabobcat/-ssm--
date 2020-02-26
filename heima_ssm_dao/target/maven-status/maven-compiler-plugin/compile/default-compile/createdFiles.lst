@@ -1,0 +1,9 @@
+com\lynx\ssm\dao\ITravellerDao.class
+com\lynx\ssm\dao\IPermissions.class
+com\lynx\ssm\dao\IProductDao.class
+com\lynx\ssm\dao\IMemberDao.class
+com\lynx\ssm\dao\IPermissionDao.class
+com\lynx\ssm\dao\IRoleDao.class
+com\lynx\ssm\dao\ISysLogDao.class
+com\lynx\ssm\dao\IOrderDao.class
+com\lynx\ssm\dao\IUserDao.class
